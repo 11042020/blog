@@ -1,6 +1,6 @@
 ---
 title: Info
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/fond.jpg'
 omit_header_text: true
 description: Info
 menu: main

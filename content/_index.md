@@ -1,6 +1,6 @@
 ---
 title:  "Dorra & Dhia : 11 Avril"
-featured_image: '/images/c1d9f993-9011-4672-bddb-6305ada2ef99.jpg'
+featured_image: '/images/fond.jpg'
 omit_header_text: true
 ---
 M. et Mme Ayachi  ont la grande joie de vous faire part du mariage de leurs enfants
