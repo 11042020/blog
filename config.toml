@@ -1,0 +1,11 @@
+title = "Mariage"
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main2"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
