@@ -1,11 +1,58 @@
-title = "Mariage"
+# Main config file for icon theme.
+theme = "hugo-icon"
 baseURL = "https://11042020.github.io/"
-languageCode = "en-us"
-theme = "ananke2"
+languageCode = "en-AU"
+title = "Mariage Dorra & Dhia"
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main2"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
+# Metadata
+[params]
+  author = "Dorra & Dhia"
+  description = "Mariage Dorra & Dhia : 11 novembre 2020"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/hero_bg.jpg"
+  title = "Mariage Dorra & Dhia 11 novembre 2020"
+  description = "Marie de Paris Montrouge, 15h00"
+
+# Navigation section
+[params.nav]
+  services = "Infos"
+
+
+# Services section
+[params.services]
+  enable = true
+  title = "Infos"
+  description = "M. et Mme Ayachi ont la grande joie de vous faire part du mariage de leurs enfants.<br/> La cérémonie sera célébrée le samedi 11 avril 2020 à 15 heures à la [Mairie de Montrouge, Paris](https://goo.gl/maps/s86U5GsfFJp6iEuS8).<br/>Un dîner suivra la cérémonie à 19h à la [Salle des Fêtes de Gentilly](https://goo.gl/maps/JQSHUiEAzoFMj89V9)"
+
+  [[params.services.item]]
+    icon = "icon-calendar"
+    title = "Reservation"
+    description = "Nous espérons vraiment que vous pourrez y assister !  Merci répondre dans les **deux semaines** en remplissant le [formulaire suivant](https://forms.gle/RTQGUYkcRAWCfxPn9)"
+
+  [[params.services.item]]
+    icon = "icon-car"
+    title = "Covoiturage"
+    description = "Voici [le doodle covoiturage](https://covoit.net/evenement.html?id=0929286f4j1102a0vqd6nfunt) pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager."
+
+  [[params.services.item]]
+    icon = "icon-present"
+    title = "Cagnotte"
+    description = "Notre liste de mariage est [accessible en suivant ce lien](https://www.ameliste.fr/), une liste d'objets et une cagnotte pour nous aider durant nos premiers mois de vie commune :)"
+
+  [[params.services.item]]
+    icon = "icon-magic-wand"
+    title = "Dresscode"
+    description = "Salagadou, la menchikabou, la Bibidi Bobidi Bou, Mélangez tout çà, et vous aurez quoi ? Bibidi Bobidi Bou !"
+
+  [[params.services.item]]
+    icon = "icon-music"
+    title = "Playlist"
+    description = "Nous sommes en train de mettre au point une liste de lecture géniale et nous avons besoin de votre aide ! Dites-nous quelles chansons vous pensez que nous devrions jouer sur notre [playlist collaborative Spotify](https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q)"
+
+  [[params.services.item]]
+    icon = "icon-camera"
+    title = "Photos"
+    description = "Voici [l'album Google photo collaboratif](https://photos.app.goo.gl/1pgGoWwRZmVeU5iU6), vous pouvez y ajouter toutes vos photos "
+
