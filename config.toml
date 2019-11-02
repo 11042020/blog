@@ -7,12 +7,12 @@ title = "Mariage Dorra & Dhia"
 # Metadata
 [params]
   author = "Dorra & Dhia"
-  description = "Mariage Dorra & Dhia : 11 novembre 2020"
+  description = "Mariage Dorra & Dhia<br/>11 avril 2020"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Mariage Dorra & Dhia 11 novembre 2020"
+  title = "Mariage Dorra & Dhia<br/>11 avril 2020"
   description = "Marie de Paris Montrouge, 15h00"
 
 # Navigation section
