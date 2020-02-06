@@ -11,49 +11,93 @@ title = "Mariage Dorra & Dhia"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "images/mosque.jpeg"
   title = "Mariage Dorra & Dhia<br/>11 avril 2020"
-  description = "Marie de Paris Montrouge, 15h00"
+  description = "Mairie du XVème (Paris), de 10h à 12h30"
+
+[params.herofemmes]
+  img = "images/hero_bgfemmes.jpg"
+  title = "Mariage Dorra & Dhia<br/>11 avril 2020"
+  description = "Mairie du XVème (Paris), de 10h à 12h30"
 
 # Navigation section
 [params.nav]
   services = "Infos"
+  servicesfemmes = "Infos2"
   #logo = "images/hero_bg.jpg"
 
-
+[markup.goldmark.renderer]
+unsafe= true
 # Services section
 [params.services]
   enable = true
   title = "Infos"
-  description = "M. et Mme Ayachi ont la grande joie de vous faire part du mariage de leurs enfants.<br/> La cérémonie sera célébrée le samedi 11 avril 2020 à 15 heures à la [Mairie de Montrouge, Paris](https://goo.gl/maps/s86U5GsfFJp6iEuS8).<br/>Un dîner suivra la cérémonie à 19h à la [Salle des Fêtes de Gentilly](https://goo.gl/maps/JQSHUiEAzoFMj89V9)"
+  description = """
+  M. et Mme Ayachi - M. et Mme Ben Naser <br/>
+  ont la joie de vous annoncer le mariage de leurs enfants : Dorra et Dhia le <b>11 avril 2020</b>.
+  La cérémonie de mariage se déroulera à la <b>mairie du XVème (Paris) de 10h à 12h30</b>, sermon et cocktail se suivront. 
+  La cérémonie religieuse se tiendra à la <b>mosquée de Paris dès 13h</b>. 
+  Nous comptons sur votre présence pour partager avec nous ce moment de bonheur.
+"""
 
-  [[params.services.item]]
-    icon = "icon-calendar"
-    title = "Reservation"
-    description = "Nous espérons vraiment que vous pourrez y assister !  Merci répondre dans les **deux semaines** en remplissant le [formulaire suivant](https://forms.gle/RTQGUYkcRAWCfxPn9)"
-
+  
   [[params.services.item]]
     icon = "icon-car"
     title = "Covoiturage"
-    description = "Voici [le doodle covoiturage](https://covoit.net/evenement.html?id=0929286f4j1102a0vqd6nfunt) pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager."
+    description = "Voici [le doodle covoiturage](https://covoit.net/evenement.html?id=184936mfht0206refmxdro9if) pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager."
 
   [[params.services.item]]
     icon = "icon-present"
     title = "Cagnotte"
-    description = "Notre liste de mariage est [accessible en suivant ce lien](https://www.ameliste.fr/), une liste d'objets et une cagnotte pour nous aider durant nos premiers mois de vie commune :)"
-
-  [[params.services.item]]
-    icon = "icon-magic-wand"
-    title = "Dresscode"
-    description = "Salagadou, la menchikabou, la Bibidi Bobidi Bou, Mélangez tout çà, et vous aurez quoi ? Bibidi Bobidi Bou !"
-
-  [[params.services.item]]
-    icon = "icon-music"
-    title = "Playlist"
-    description = "Nous sommes en train de mettre au point une liste de lecture géniale et nous avons besoin de votre aide ! Dites-nous quelles chansons vous pensez que nous devrions jouer sur notre [playlist collaborative Spotify](https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q)"
+    description = "[Une cagnotte](https://www.ameliste.fr/) pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
 
   [[params.services.item]]
     icon = "icon-camera"
     title = "Photos"
-    description = "Voici [l'album Google photo collaboratif](https://photos.app.goo.gl/1pgGoWwRZmVeU5iU6), vous pouvez y ajouter toutes vos photos "
+    description = "Voici [l'album Google photo collaboratif](https://photos.app.goo.gl/1pgGoWwRZmVeU5iU6), vous pouvez y ajouter toutes vos photos et retrouvez les nôtres."
 
+[params.servicesfemmes]
+  enable = true
+  title = "Informations"
+  description = """
+
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Ceci est la partie réservée aux femmes !&nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Bienvenue à toutes sur cette page secrète. Si vous êtes ici, c’est que vous êtes la crème de mon chocolat chaud, l’élite de mon cœur, les rayons de soleil de mes hivers, les ronrons de mon chat… &nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Comme promis, <strong>l’Outeya&nbsp;</strong>(soirée de jeunes filles en tunisien) <strong>se déroulera le samedi 4 avril&nbsp;</strong>à environ 1h de Strasbourg. Vous retrouverez ici toutes les informations, les explications, les détails de ce jour spécial.&nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong>L’adresse exacte</strong> : 116 Grand Rue, 67430 Diemeringen, France</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:35.4pt;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-indent:35.4pt;"><u>Pour les écolos de Strasbourg</u> : c’est à 7 minutes à pieds de la gare de Diemeringen, il y a un train par heure environ.</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:35.4pt;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-indent:35.4pt;"><u>Pour les autres</u> : un lien « <strong>covoiturage</strong> » est disponible en bas (remplissez le le plus tôt possible svp).&nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Comme la majorité de nous ne sommes pas en vacances, une maison d’hôte a été louée pour l’occasion&nbsp;<span style="font-family:&quot;Segoe UI Emoji&quot;,sans-serif;">😊</span>, de quoi passer un petit weekend en paix, entre filles dans le repos et la bienveillance. La maison peut héberger environ 40 personnes, venant de toutes horizons, vous êtes toutes invitées à <strong>dormir sur place samedi 4 avril</strong>. Prévoyez seulement du <strong>linge de lit</strong> (drap, petite couette et coussin). Les chambres sont des chambres de 4 en moyenne (mais n’essayez pas de vous mettre entre copines, je vais de toute façon vous séparer volontairement pour pas que ça complote).&nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">L’idéal est <strong>d’arriver samedi 4 avril dans la matinée, le départ est prévu dimanche 5 avril 10h.&nbsp;</strong></p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">La maison est louée de vendredi 3 avril 15h à dimanche 5 avril 11h, voici le déroulement (inshaAllah):&nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong>Vendredi 3 avril dès 19h</strong> : réception pour les invitées de la maman et de la belle maman<span style="font-family:&quot;Segoe UI Emoji&quot;,sans-serif;">😊</span> cette soirée se voudra plus officieuse et traditionnelle (ambiance Oum-Kelthoum). <strong>Pour mes copines qui viennent de loin</strong> et ne peuvent venir que dès vendredi soir, prévenez-moi le plus tôt possible svp, un lit vous sera réservé et je vous accueillerai avec plaisir dès vendredi soir.</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong>Samedi&nbsp;</strong>: le projet étant de profiter de chacune de vous (plus que le temps d’une soirée) mais aussi que vous puissiez vous rencontrer mutuellement, je vous invite à partager avec moi une journée de repos dans une ambiance familiale et chaleureuse. Je n’en dis pas trop, seules 2 infos restent importantes à communiquer : une piscine d’intérieure est à notre disposition, prenez votre plus joli <strong>burkini</strong> et votre <strong>serviette</strong> de bain ! Et pour le soir, allez vite alimenter la <strong>playlist</strong> svp (lien en bas) histoire que je ne vous bassine pas toute la nuit avec du Booba ou du Michael Jakson (et pensez aux <strong>boules quies</strong> pour celles qui doivent se coucher tôt).&nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong>Dimanche</strong> : repos, petit déjeuné et départ avant 11h à prévoir&nbsp;<span style="font-family:&quot;Segoe UI Emoji&quot;,sans-serif;">☹</span>.</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">&nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">J’espère vous retrouver toutes dans le meilleur de votre forme. Je suis impatiente de partager ce petit petit séjour avec vous ! Ne vous inquiétez pas sur toutes les formalités parallèles, pensez qu’il s’agit d’un jour entre nous, sans garçons, ambiance à la bonne franquette (oui, j’insiste, chacune fait sa vaisselle svp !).&nbsp;</p>
+<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Pleins pleins de bisous,&nbsp;</p>
+<p><span style="font-size:15px;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;">Vous avez toutes mon numéro mais je le remets ici : +33649419033</span></p>
+
+
+"""
+
+
+  [[params.servicesfemmes.item]]
+    icon = "icon-car"
+    title = "Covoiturage"
+    description = "Voici [le doodle covoiturage](https://covoit.net/evenement.html?id=184936mfht0206refmxdro9if) pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager."
+
+  [[params.servicesfemmes.item]]
+    icon = "icon-present"
+    title = "Cagnotte"
+    description = "[Une cagnotte](https://www.ameliste.fr/) pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
+
+  [[params.servicesfemmes.item]]
+    icon = "icon-magic-wand"
+    title = "Dresscode"
+    description = "Prévoyez une tenue décontractée pour la journée et de quoi vous sentir belle pour la soirée, aucun homme ne sera présent "
+
+  [[params.servicesfemmes.item]]
+    icon = "icon-music"
+    title = "Playlist"
+    description = "Je suis en train de mettre au point une liste de lecture pour la soirée et j’ai besoin de votre aide ! A vous de complétez la [playlist](https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q) (rien est interdit mais obligation de danser sur chacune des musiques ajoutées 😉 (ps : le lien fonctionne mieux sur pc que sur smartphone)."

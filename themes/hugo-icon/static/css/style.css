@@ -231,7 +231,7 @@ p {
   font-size: 20px;
   color: #fff;
   line-height: 1.2;
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 1);
 }
 #fh5co-home .fh5co-copy-inner a {
   color: #fff;
@@ -849,7 +849,7 @@ p {
 }
 #fh5co-gallery .fh5co-item .fh5co-copy > .fh5co-copy-inner h3 {
   font-size: 16px;
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 1);
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
