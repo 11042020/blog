@@ -12,13 +12,13 @@ title = "Mariage Dorra & Dhia"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/header_flower.jpeg"
-  title = "Mariage Dorra & Dhia<br/>11 avril 2020"
-  description = "Mairie du XVème (Paris), de 10h à 12h30"
+  title = ""
+  description = ""
 
 [params.herofemmes]
   img = "images/header_flower.jpeg"
-  title = "Mariage Dorra & Dhia<br/>11 avril 2020"
-  description = "Mairie du XVème (Paris), de 10h à 12h30"
+  title = ""
+  description = ""
 
 # Navigation section
 [params.nav]
@@ -81,11 +81,11 @@ unsafe= true
 <p style="text-align: justify;"><span style="font-size:15px;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;">Vous avez toutes mon numéro mais je le remets ici : +33649419033 </span></p>
 """
 
-
   [[params.servicesfemmes.item]]
     icon = "icon-car"
-    title = "Covoiturage"
-    description = "Voici [le doodle covoiturage](https://covoit.net/evenement.html?id=184936mfht0206refmxdro9if) pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager. [دعاء السف ر](https://hisnii.com/invocation-du-voyageur/)"
+    title = "Covoiturage Diemeringen"
+    description = "Voici les lien de covoiturage pour s'organniser au mieux. <br />[Covoiturage vendredi](https://covoit.net/evenement.html?id=084453von20220ca3nw7fvwqe) <br/> [Covoiturage samedi](https://covoit.net/evenement.html?id=084956exzc0220mlvnljrejfo) <br/> [Covoiturage dimanche](https://covoit.net/evenement.html?id=085222vic20220dm851jxj1yu) <br />Vous pouvez vous enregistrer comme conducteur ou passager. [دعاء السف ر](https://hisnii.com/invocation-du-voyageur/)"
+    
 
   [[params.servicesfemmes.item]]
     icon = "icon-present"
@@ -100,4 +100,4 @@ unsafe= true
   [[params.servicesfemmes.item]]
     icon = "icon-music"
     title = "Playlist"
-    description = "Je suis en train de mettre au point une liste de lecture pour la soirée et j’ai besoin de votre aide ! A vous de complétez la [playlist](https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q) (rien est interdit mais obligation de danser sur chacune des musiques ajoutées 😉 (ps : le lien fonctionne mieux sur pc que sur smartphone)."
+    description = "Je suis en train de mettre au point une liste de lecture pour la soirée et j’ai besoin de votre aide ! A vous de complétez la [playlist](https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q) (rien est interdit mais obligation de danser sur chacune des musiques ajoutées 😉 (ps : le lien fonctionne mieux sur application pc que sur smartphone, si ça ne marche pas bien, envoyez moi les titres des musiques en message 🌼)"
