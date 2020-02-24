@@ -33,15 +33,16 @@ unsafe= true
   enable = true
   title = "Infos"
   description = """
- <p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">Les familles Ben Naser et Ayachi ont l’honneur de vous inviter au mariage de leurs enfants :&nbsp;</p>
-<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">Dhia et Dorra <strong>le 11 avril 2020</strong>. La cérémonie de mariage se déroulera à la <strong>mairie du XVème</strong> (Paris) de <strong>10h à 12h30,</strong> sermon et cocktail se suivront.&nbsp;</p>
-<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">La cérémonie religieuse se tiendra à la mosquée de Paris dès 15h. Nous comptons sur votre présence pour partager avec nous ce moment de bonheur.</p>
+ <p style="text-align: justify;">Les familles Ben Naser et Ayachi ont l’honneur de vous convier au mariage de leurs enfants Dhia et Dorra qui sera célébré à la <strong>Mairie du XVème</strong> arrondissement de Paris le <strong>11 avril 2020</strong> <strong>à 10h</strong>.&nbsp;</p>
+<p style="text-align: justify;">Dans le prolongement de la cérémonie, nous vous invitons à partager un moment convivial autour d’un cocktail au sein de la Mairie jusqu’à <strong>12h30</strong>.&nbsp;</p>
+<p style="text-align: justify;">La cérémonie religieuse se tiendra à la mosquée de Paris au 2bis Place du Puits de l'Ermite, dès 15h.</p>
+<p style="text-align: justify;">Nous comptons sur votre présence pour partager avec nous ce moment de bonheur.</p>
 <p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">تتشرف عائلتا ابن نصر والعياشي باستدعائكم لحضور زواج ابنيهما: <strong>ضياء و درة</strong></p>
 <p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">وذلك يوم السبت 18 شعبان 1441 هجري / <strong>11 أفريل 2020م</strong> &nbsp;</p>
 <p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">في بلدية باريس ( بالدائرة الخامسة عشرة) من الساعة العاشرة الى منتصف النهار والنصف ، يتبع القرى كتابة العقد الرسمي ، وإثرهما يكون العقد الشرعي في مسجد باريس بدءا من الساعة الثالثة بعد الظهر، على أمل أن تشرفونا بحضوركم يومها لمشاطرتنا سعادتنا ،ولكم العاقبة في الافراح والمسرات.</p>
 <p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">&nbsp;</p>
-<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">Mairie du XVème&nbsp;: 31 Rue Peclet, 75015 Paris</p>
-<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">Grande Mosquée de Paris :2 bis Place du Puits de l'Ermite, 75005 Paris</p>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;"><a href="https://goo.gl/maps/ZBNSsiDE1apzMwpr5">Mairie du XVème&nbsp;: 31 Rue Peclet, 75015 Paris</a></p>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;"><a href="https://goo.gl/maps/DSToVHoPyCvuHaQS6">Grande Mosquée de Paris :2 bis Place du Puits de l'Ermite, 75005 Paris</a></p>
 """
 
   
@@ -53,7 +54,7 @@ unsafe= true
   [[params.services.item]]
     icon = "icon-present"
     title = "Cagnotte"
-    description = "[Une cagnotte](https://www.lyf.eu/fr/pot/47b7b568-1d7d-479f-9d45-a5356922b4fa) pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
+    description = "[Une cagnotte](https://paypal.me/pools/c/8mQdcPAGFe) pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
 
   [[params.services.item]]
     icon = "icon-camera"
@@ -90,7 +91,7 @@ unsafe= true
   [[params.servicesfemmes.item]]
     icon = "icon-present"
     title = "Cagnotte"
-    description = "[Une cagnotte](https://www.lyf.eu/fr/pot/47b7b568-1d7d-479f-9d45-a5356922b4fa) pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
+    description = "[Une cagnotte](https://paypal.me/pools/c/8mQdcPAGFe) pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
 
   [[params.servicesfemmes.item]]
     icon = "icon-magic-wand"
@@ -100,4 +101,4 @@ unsafe= true
   [[params.servicesfemmes.item]]
     icon = "icon-music"
     title = "Playlist"
-    description = "Je suis en train de mettre au point une liste de lecture pour la soirée et j’ai besoin de votre aide ! A vous de complétez la [playlist](https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q) (rien est interdit mais obligation de danser sur chacune des musiques ajoutées 😉 (ps : le lien fonctionne mieux sur application pc que sur smartphone, si ça ne marche pas bien, envoyez moi les titres des musiques en message 🌼)"
+    description = "Je suis en train de mettre au point une liste de lecture pour la soirée et j’ai besoin de votre aide ! A vous de compléter [la playlist](https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q) (rien est interdit mais obligation de danser sur chacune des musiques ajoutées 😉 (ps : le lien fonctionne mieux sur application pc que sur smartphone, si ça ne marche pas bien, envoyez moi les titres des musiques en message 🌼)"
