@@ -49,7 +49,7 @@ unsafe= true
   [[params.services.item]]
     icon = "icon-car"
     title = "Covoiturage"
-    description = "Voici [le doodle covoiturage](https://covoit.net/evenement.html?id=184936mfht0206refmxdro9if) pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager. [دعاء السف ر](https://hisnii.com/invocation-du-voyageur/)"
+    description = "Voici [le doodle covoiturage](https://covoit.net/evenement.html?id=171618dbi70224kmu8b57bhzn) pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager. [دعاء السف ر](https://hisnii.com/invocation-du-voyageur/)"
 
   [[params.services.item]]
     icon = "icon-present"
