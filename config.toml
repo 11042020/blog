@@ -35,31 +35,37 @@ unsafe= true
   description = """
  <p style="text-align: justify;">Les familles Ben Naser et Ayachi ont l’honneur de vous convier au mariage de leurs enfants Dhia et Dorra qui sera célébré à la <strong>Mairie du XVème</strong> arrondissement de Paris le <strong>11 avril 2020</strong> <strong>à 10h</strong>.&nbsp;</p>
 <p style="text-align: justify;">Dans le prolongement de la cérémonie, nous vous invitons à partager un moment convivial autour d’un cocktail au sein de la Mairie jusqu’à <strong>12h30</strong>.&nbsp;</p>
-<p style="text-align: justify;">La cérémonie religieuse se tiendra à la mosquée de Paris au 2bis Place du Puits de l'Ermite, dès 15h.</p>
 <p style="text-align: justify;">Nous comptons sur votre présence pour partager avec nous ce moment de bonheur.</p>
 <p style="margin: 0in 0in 8pt; line-height: 107%; font-family: Calibri, sans-serif; text-align: justify;">تتشرف عائلتا ابن نصر والعياشي باستدعائكم لحضور زواج ابنيهما: <strong>ضياء و درة</strong></p>
 <p style="margin: 0in 0in 8pt; line-height: 107%; font-family: Calibri, sans-serif; text-align: justify;">وذلك يوم السبت 18 شعبان 1441 هجري / <strong>11 أفريل 2020م</strong> &nbsp;</p>
 <p style="margin: 0in 0in 8pt; line-height: 107%; font-family: Calibri, sans-serif; text-align: justify;">في بلدية باريس ( بالدائرة الخامسة عشرة) من الساعة العاشرة الى منتصف النهار والنصف ، يتبع القرى كتابة العقد الرسمي ، وإثرهما يكون العقد الشرعي في مسجد باريس بدءا من الساعة الثالثة بعد الظهر، على أمل أن تشرفونا بحضوركم يومها لمشاطرتنا سعادتنا ،ولكم العاقبة في الافراح والمسرات.</p>
 <p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;">&nbsp;</p>
-<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;"><a href="https://goo.gl/maps/ZBNSsiDE1apzMwpr5">Mairie du XVème&nbsp;: 31 Rue Peclet, 75015 Paris</a></p>
-<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;"><a href="https://goo.gl/maps/DSToVHoPyCvuHaQS6">Grande Mosquée de Paris :2 bis Place du Puits de l'Ermite, 75005 Paris</a></p>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;"><a href="https://goo.gl/maps/ZBNSsiDE1apzMwpr5" target='_blank'>Mairie du XVème&nbsp;: 31 Rue Peclet, 75015 Paris</a></p>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 15px; font-family: Calibri, sans-serif; text-align: justify;"><a href="https://goo.gl/maps/DSToVHoPyCvuHaQS6" target='_blank'>Grande Mosquée de Paris :2 bis Place du Puits de l'Ermite, 75005 Paris</a></p>
 """
 
   
   [[params.services.item]]
+    icon = "icon-calendar"
+    title = "Reservation"
+    description = "Nous espérons vraiment que vous pourrez y assister !  Merci de répondre en remplissant le <a href='https://forms.gle/RTQGUYkcRAWCfxPn9' target='_blank'>formulaire suivant</a>"
+
+
+
+  [[params.services.item]]
     icon = "icon-car"
     title = "Covoiturage"
-    description = "Voici [le doodle covoiturage](https://covoit.net/evenement.html?id=171618dbi70224kmu8b57bhzn) pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager. [دعاء السف ر](https://hisnii.com/invocation-du-voyageur/)"
+    description = "Voici <a href='https://www.groupcarpool.com/t/04qar2' target='_blank'>le doodle covoiturage</a> pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager. <a href='https://hisnii.com/invocation-du-voyageur/' target='_blank'>دعاء السف ر</a>"
 
   [[params.services.item]]
     icon = "icon-present"
     title = "Cagnotte"
-    description = "[Une cagnotte](https://paypal.me/pools/c/8mQdcPAGFe) pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
+    description = "<a href='https://paypal.me/pools/c/8mQdcPAGFe' target='_blank'>Une cagnotte</a> pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
 
   [[params.services.item]]
     icon = "icon-camera"
     title = "Photos"
-    description = "Voici [l'album Google photo collaboratif](https://photos.app.goo.gl/1pgGoWwRZmVeU5iU6), vous pouvez y ajouter toutes vos photos et retrouvez les nôtres."
+    description = "Voici <a href='https://photos.app.goo.gl/1pgGoWwRZmVeU5iU6' target='_blank'>l'album Google photo collaboratif</a>, vous pouvez y ajouter toutes vos photos et retrouvez les nôtres."
 
 [params.servicesfemmes]
   enable = true
@@ -79,19 +85,14 @@ unsafe= true
 <p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:justify;"><strong>Dimanche</strong> : repos, petit déjeuné et départ avant 11h à prévoir&nbsp;<span style="font-family:&quot;Segoe UI Emoji&quot;,sans-serif;">☹</span>.</p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:justify;">J’espère vous retrouver toutes dans le meilleur de votre forme. Je suis impatiente de partager ce petit évènement avec vous ! Ne vous inquiétez pas sur toutes les formalités parallèles, pensez qu’il s’agit d’un jour entre nous avec une ambiance à la bonne franquette (oui, j’insiste, chacune fait sa vaisselle svp !).&nbsp;</p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:justify;">Pleins pleins de bisous,&nbsp;</p>
-<p style="text-align: justify;"><span style="font-size:15px;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;">Vous avez toutes mon numéro mais je le remets ici : +33649419033 </span></p>
+<p style="text-align: justify;"><span style="font-size:15px;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;">Vous avez toutes mon numéro mais je le remets ici : <a href="tel:+33649419033">+33649419033</a> </span></p>
 """
 
   [[params.servicesfemmes.item]]
     icon = "icon-car"
     title = "Covoiturage Diemeringen"
-    description = "Voici les lien de covoiturage pour s'organniser au mieux. <br />[Covoiturage vendredi](https://covoit.net/evenement.html?id=084453von20220ca3nw7fvwqe) <br/> [Covoiturage samedi](https://covoit.net/evenement.html?id=084956exzc0220mlvnljrejfo) <br/> [Covoiturage dimanche](https://covoit.net/evenement.html?id=085222vic20220dm851jxj1yu) <br />Vous pouvez vous enregistrer comme conducteur ou passager. [دعاء السف ر](https://hisnii.com/invocation-du-voyageur/)"
+    description = "Voici le lien de <a href='https://www.groupcarpool.com/t/qcemg9' target='_blank'>covoiturage Outeya</a>  pour s'organniser au mieux.<br />Vous pouvez vous enregistrer comme conducteur ou passager. <a href='https://hisnii.com/invocation-du-voyageur/' target='_blank'>دعاء السف ر</a>"
     
-
-  [[params.servicesfemmes.item]]
-    icon = "icon-present"
-    title = "Cagnotte"
-    description = "[Une cagnotte](https://paypal.me/pools/c/8mQdcPAGFe) pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
 
   [[params.servicesfemmes.item]]
     icon = "icon-magic-wand"
@@ -101,4 +102,4 @@ unsafe= true
   [[params.servicesfemmes.item]]
     icon = "icon-music"
     title = "Playlist"
-    description = "Je suis en train de mettre au point une liste de lecture pour la soirée et j’ai besoin de votre aide ! A vous de compléter [la playlist](https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q) (rien est interdit mais obligation de danser sur chacune des musiques ajoutées 😉 (ps : le lien fonctionne mieux sur application pc que sur smartphone, si ça ne marche pas bien, envoyez moi les titres des musiques en message 🌼)"
+    description = "Je suis en train de mettre au point une liste de lecture pour la soirée et j’ai besoin de votre aide ! A vous de compléter <a href='https://open.spotify.com/playlist/4RrWJpXPvuuAOL5aSeaRWZ?si=EjfM_I1IRQ2TJMmA7vwM6Q' target='_blank'>la playlist</a> (rien est interdit mais obligation de danser sur chacune des musiques ajoutées 😉 (ps : le lien fonctionne mieux sur application pc que sur smartphone, si ça ne marche pas bien, envoyez moi les titres des musiques en message 🌼)"
