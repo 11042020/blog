@@ -55,7 +55,7 @@ unsafe= true
   [[params.services.item]]
     icon = "icon-car"
     title = "Covoiturage"
-    description = "Voici <a href='https://covoit.net/evenement.html?id=171618dbi70224kmu8b57bhzn' target='_blank'>le doodle covoiturage</a> pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager. <a href='https://hisnii.com/invocation-du-voyageur/' target='_blank'>دعاء السف ر</a>"
+    description = "Voici <a href='https://www.groupcarpool.com/t/04qar2' target='_blank'>le doodle covoiturage</a> pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager. <a href='https://hisnii.com/invocation-du-voyageur/' target='_blank'>دعاء السف ر</a>"
 
   [[params.services.item]]
     icon = "icon-present"
@@ -91,7 +91,7 @@ unsafe= true
   [[params.servicesfemmes.item]]
     icon = "icon-car"
     title = "Covoiturage Diemeringen"
-    description = "Voici les liens de covoiturage pour s'organniser au mieux.<br /><a href='https://covoit.net/evenement.html?id=084453von20220ca3nw7fvwqe' target='_blank'>covoiturage vendredi</a><br/> <a href='https://covoit.net/evenement.html?id=084956exzc0220mlvnljrejfo' target='_blank'>covoiturage samedi</a><br/> <a href='https://covoit.net/evenement.html?id=085222vic20220dm851jxj1yu' target='_blank'>covoiturage dimanche</a><br/>Vous pouvez vous enregistrer comme conducteur ou passager. <a href='https://hisnii.com/invocation-du-voyageur/' target='_blank'>دعاء السف ر</a>"
+    description = "Voici le lien de <a href='https://www.groupcarpool.com/t/qcemg9' target='_blank'>covoiturage Outeya</a>  pour s'organniser au mieux.<br />Vous pouvez vous enregistrer comme conducteur ou passager. <a href='https://hisnii.com/invocation-du-voyageur/' target='_blank'>دعاء السف ر</a>"
 
   [[params.servicesfemmes.item]]
     icon = "icon-magic-wand"
