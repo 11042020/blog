@@ -33,17 +33,41 @@ unsafe= true
   enable = true
   title = "Infos"
   description = """
- <p>Les familles Ben Naser et Ayachi ont l’honneur de vous convier au mariage de leurs enfants Dhia et Dorra.&nbsp;</p>
-<p><strong>Au vu de la situation actuelle, le mariage est reporté a une date ultérieure encore incertaine.&nbsp;</strong></p>
-<p><strong>Nous ferons de notre mieux pour vous en tenir informer dans les plus brefs délais, en espérant tous vous retrouver dans le meilleur de votre santé.&nbsp;</strong></p>
-<p><strong>En attendant, profitons de ce temps suspendu pour prendre soin de nos proches et nous rapprocher de l'Essentiel.</strong></p>
+ <blockquote dir="rtl">
+ <p>بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
+<p>ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</p>
+</blockquote>
+
+<p>Bonjour &agrave; tous,</p>
+<p>Les familles Ben Naser et Ayachi ont l&rsquo;honneur de vous convier au repas de c&eacute;l&eacute;bration du mariage de leurs enfants Dhia et Dorra.</p>
+<p>Au vu des r&egrave;gles de confinement et par mesure de s&eacute;curit&eacute;, nous respecterons les r&egrave;gles impos&eacute;es par la mairie et la mosqu&eacute;e.&nbsp;</p>
+<p>Ainsi, nous nous ferons une joie de tous vous retrouver le <b>18 juillet 2020 de 14h &agrave; 18h</b> au</p>
+<p><b>108 de la Grange Colombe &agrave; Rambouillet (78)</b> .</p>
+<p>Au vu du nombre de convives limit&eacute;s, pensez svp &agrave; confirmer votre venue dans le document ci dessous.</p>
+<p>Nous comptons sur votre pr&eacute;sence pour partager avec nous ce moment de bonheur.</p>
+<blockquote dir="rtl">
+<p>بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</p>
+<p>ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ تعالى وَبَرَكَاتُهُ</p>
+<p>حالون أهلا ونازلون سهلا...</p>
+<p>تتشرف عائلتا ابن نصر والعياشي باستدعائكم للغداء الذي تنظمه احتفاء بزواج ابنيهما ضياء ودرة...</p>
+<p>مع التزامنا بقواعد الحظر الصحي في البلدية وبالمسجد، فإنه يسرنا حضوركم جميعا معنا يوم السبت 27 ذو القعدة 1441ه، الموافق ليوم 18 جويلية 2020 ، وذلك من &nbsp;الساعة الثانية بعد الظهر الى السادسة في :</p>
+<p>108 de la Grange Colombe &agrave; Rambouillet (78)&nbsp;</p>
+<p>و إذ كنا مطالبين بتحديد عدد الحاضرين &nbsp;، فرجاؤنا إليكم أن تتفضلوا &nbsp;بتأكيد حضوركم معنا في الاستمارة اللاحقة ، فذلك منكم فضل ولنا شرف...</p>
+<p>ولكم العاقبة في الأفراح والمسرات</p>
+</blockquote>
+
 """
 
   
   [[params.services.item]]
-    icon = "icon-car"
-    title = "Covoiturage"
-    description = "Voici <a href='https://www.groupcarpool.com/' target='_blank'>le doodle covoiturage</a> pour s'organniser au mieux. Vous pouvez vous enregistrer comme conducteur ou passager. <a href='https://hisnii.com/invocation-du-voyageur/' target='_blank'>دعاء السف ر</a>"
+    icon = "icon-calendar"
+    title = "Reservation"
+    description = "Nous espérons vraiment que vous pourrez y assister !  Merci de répondre en remplissant le <a href='https://forms.gle/RTQGUYkcRAWCfxPn9' target='_blank'>formulaire suivant</a>"
+
+
+#Les familles Ben Naser et Ayachi ont l’honneur de vous convier au mariage de leurs enfants Dhia et Dorra qui sera célébréle 18 juillet 2020 de 14h à 18h au 108 de la Grange Colombe à Rambouillet (78). 
+#Dans le prolongement de la cérémonie, nous vous invitons à partager un moment convivial autour d’un cocktail au sein de la Mairie jusqu’à 12h30. 
+#Nous comptons sur votre présence pour partager avec nous ce moment de bonheur.
 
   [[params.services.item]]
     icon = "icon-present"
@@ -77,10 +101,10 @@ unsafe= true
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong>Vendredi 10 juillet d&egrave;s 19h</strong> : r&eacute;ception pour les invit&eacute;es de ma m&egrave;re et de ma belle-m&egrave;re (ces invit&eacute;es dormiront sur place), cette soir&eacute;e se voudra tr&egrave;s traditionnelle (ambiance Oum-Kalthoum).&nbsp;</p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'>&nbsp;<strong><span style='font-family:"Segoe UI Emoji",sans-serif;'>⛔</span> Pour mes copines qui viennent de loin</strong> et ne peuvent venir que d&egrave;s vendredi soir, <strong>pr&eacute;venez-moi</strong> le plus t&ocirc;t possible svp, un lit vous sera r&eacute;serv&eacute; et je vous accueillerai avec plaisir d&egrave;s vendredi soir.</p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong>Samedi&nbsp;</strong>: afin d&rsquo;avoir plus de temps pour profiter de vous qu&rsquo;une soir&eacute;e classique, et que vous puissiez vous rencontrer mutuellement, je vous invite &agrave; partager avec moi une journ&eacute;e d&rsquo;&eacute;t&eacute; que nous rendrons, je l&rsquo;esp&egrave;re, inoubliable.&nbsp;</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'>Je ne connais pas le d&eacute;roulement de la journ&eacute;e de samedi, &ccedil;a restera une surprise pour moi comme pour vous ! Tout ce que je sais, c&rsquo;est que ma s&oelig;ur et son &eacute;quipe se sont charg&eacute;s des activit&eacute;s qui nous attendent. Si vous avez une question ou un imp&eacute;ratif pour l&rsquo;organisation du samedi, vous pouvez contactez mon t&eacute;moin, la meilleure s&oelig;ur que la terre ait port&eacute;e : Safia : <a href="mailto:safiaaya@hotmail.com">safiaaya@hotmail.com</a>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'>Je ne connais pas le d&eacute;roulement de la journ&eacute;e de samedi, &ccedil;a restera une surprise pour moi comme pour vous ! Tout ce que je sais, c&rsquo;est que ma s&oelig;ur et son &eacute;quipe se sont charg&eacute;s des activit&eacute;s qui nous attendent. Si vous avez une question ou un imp&eacute;ratif pour l&rsquo;organisation du samedi, vous pouvez contacter mon t&eacute;moin, la meilleure s&oelig;ur que la terre ait port&eacute;e : Safia : <a href="mailto:safiaaya@hotmail.com">safiaaya@hotmail.com</a>&nbsp;</p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong>Samedi soir :&nbsp;</strong>Soir&eacute;e ! Pas de DJ pr&eacute;vu, allez vite nourrir la playlist du bas&nbsp;<span style='font-family:"Segoe UI Emoji",sans-serif;'>😊</span></p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong>Dimanche</strong> : repos, petit d&eacute;jeun&eacute;, rangement de la maison et d&eacute;part avant 11h &agrave; pr&eacute;voir&nbsp;<span style='font-family:"Segoe UI Emoji",sans-serif;'>☹</span>.</p>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'>Nombreuses sont celles qui ont insist&eacute; et m&rsquo;ont demand&eacute; ce que je voulais comme cadeaux, je vois renvoie vers le lien de la cagnotte plus bas. &nbsp;&Ccedil;a me permettra de me faire plaisir et d&rsquo;&eacute;taler l&rsquo;achat de vos cadeaux sur les semaines prochaines.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong>Dimanche</strong> : repos, petit d&eacute;jeuner, rangement de la maison et d&eacute;part avant 11h &agrave; pr&eacute;voir&nbsp;<span style='font-family:"Segoe UI Emoji",sans-serif;'>☹</span>.</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'>Nombreuses sont celles qui ont insist&eacute; et m&rsquo;ont demand&eacute; ce que je voulais comme cadeau de mariage, je vois renvoie vers le lien de la cagnotte plus bas. &nbsp;&Ccedil;a me permettra de me faire plaisir et d&rsquo;&eacute;taler l&rsquo;achat de vos cadeaux sur les semaines prochaines.&nbsp;</p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'>J&rsquo;esp&egrave;re vous retrouver toutes dans le meilleur de votre forme. Je suis impatiente de partager ce petit &eacute;v&egrave;nement avec vous ! Ne vous inqui&eacute;tez pas sur toutes les formalit&eacute;s parall&egrave;les, pensez qu&rsquo;il s&rsquo;agit d&rsquo;un jour entre nous avec une ambiance &agrave; la bonne franquette. Concernant les repas, mon p&egrave;re a voulu s&#39;en charger. Pour ne pas qu&#39;il reste sur place, il viendra juste nous d&eacute;poser les plats, je compte sur vos petites mains pour m&rsquo;aider &agrave; mettre la table et la d&eacute;barrasser ! Et pour la vaisselle, chacun lave ses couverts&nbsp;<span style='font-family:"Segoe UI Emoji",sans-serif;'>❤.</span></p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'>&nbsp;</p>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'>Plein plein de bisous,&nbsp;</p>
@@ -107,3 +131,9 @@ unsafe= true
     icon = "icon-magic-wand"
     title = "Dresscode"
     description = "Prévoyez pour la journée, un t-shirt blanc et un jeans bleu please (pour les photos) ;  et de quoi vous sentir belle pour la soirée, aucun homme ne sera présent. "
+
+ [[params.servicesfemmes.item]]
+    icon = "icon-present"
+    title = "Cagnotte"
+    description = "<a href='https://paypal.me/pools/c/8mQdcPAGFe' target='_blank'>Une cagnotte</a> pour nous aider durant nos premiers mois de vie commune est ouverte ici 😊 mais votre présence sera votre plus beau cadeau ! "
+
